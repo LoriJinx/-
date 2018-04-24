@@ -32,7 +32,7 @@
     </style>
 </head>
 <body>
-<h1 id="name">导师管理系统</h1>
+<h1 id="name">班级导师管理系统</h1>
 <div class="container" id="top">
     <div class="row" style="margin-top: 180px; ">
         <div class="col-md-4"></div>
